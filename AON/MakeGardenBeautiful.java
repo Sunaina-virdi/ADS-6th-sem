@@ -1,4 +1,4 @@
-package AON;
+package Aon;
 public class MakeGardenBeautiful {
     public static int solve(int[]arr){
         int n = arr.length - 1;
